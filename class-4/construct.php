@@ -19,10 +19,10 @@ class Person
 
 $p1 = new Person();
 
-$p2 = new Person("Avinash Kumar", 19);
+$p2 = new Person("avadhesh Kumar", 24);
 
-$p3 = new Person("Babu Bindra", 18);
-// $p1->name = "Avinash Kumar";
+$p3 = new Person("avi", 18);
+// $p1->name = "Avadhesh Kumar";
 
 // $p1->age = 19;
 
